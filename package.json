@@ -1,0 +1,1 @@
+{"description":"xray VLESS+WS node as a plain Node.js app for KamuiDash (Tokyo). No Dockerfile: KamuiDash only deploys Node.js/Go/Python/Ruby apps from a GitHub repo.","engines":{"node":">=20"},"main":"server.js","name":"jp-relay","private":true,"scripts":{"start":"node server.js"},"version":"1.0.0"}
